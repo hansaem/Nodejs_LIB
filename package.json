@@ -1,0 +1,19 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hansaem:419613kn@github.com/hansaem/Nodejs_LIB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansaem/Nodejs_LIB/issues"
+  },
+  "homepage": "https://github.com/hansaem/Nodejs_LIB#readme",
+  "description": ""
+}
