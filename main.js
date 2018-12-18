@@ -13,7 +13,7 @@ app.listen(3000, function () {
 });
 
 app.get("/", function(req,res){
-  res.render('index.html');
+  res.render('Board.html');
 });
 app.get("/introduce", function(req,res){
 	res.render("introduce_copy0.html");
