@@ -13,7 +13,7 @@ app.listen(3000, function () {
 });
 
 app.get("/", function(req,res){
-  res.render('Board.html');
+  res.render('index.html');
 });
 app.get("/introduce", function(req,res){
 	res.render("introduce_copy0.html");
@@ -25,3 +25,4 @@ app.get("/serviceHelper", function(req,res){
 app.get("/shiphelper", function(req,res){
 	res.render("shiphelper.html");
 });
+
